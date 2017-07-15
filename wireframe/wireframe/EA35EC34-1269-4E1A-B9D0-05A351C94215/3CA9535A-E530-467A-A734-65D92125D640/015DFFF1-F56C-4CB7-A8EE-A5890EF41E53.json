@@ -371,47 +371,47 @@
             "$null",
             {
               "NSString": {
-                "UID": 0
+                "UID": 2
               },
               "$class": {
-                "UID": 0
+                "UID": 45
               },
               "NSAttributes": {
-                "UID": 0
+                "UID": 3
               }
             },
             "아이디",
             {
               "NS.keys": [
                 {
-                  "UID": 0
+                  "UID": 4
                 },
                 {
-                  "UID": 0
+                  "UID": 5
                 },
                 {
-                  "UID": 0
+                  "UID": 6
                 },
                 {
-                  "UID": 0
+                  "UID": 7
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 0
+                  "UID": 8
                 },
                 {
-                  "UID": 0
+                  "UID": 31
                 },
                 {
-                  "UID": 0
+                  "UID": 39
                 },
                 {
-                  "UID": 0
+                  "UID": 40
                 }
               ],
               "$class": {
-                "UID": 0
+                "UID": 44
               }
             },
             "NSParagraphStyle",
@@ -420,68 +420,68 @@
             "NSColor",
             {
               "NSTabStops": {
-                "UID": 0
+                "UID": 9
               },
               "NSWritingDirection": 1,
               "$class": {
-                "UID": 0
+                "UID": 30
               },
               "NSTextBlocks": {
-                "UID": 0
+                "UID": 25
               },
               "NSTextLists": {
-                "UID": 0
+                "UID": 26
               }
             },
             {
               "NS.objects": [
                 {
-                  "UID": 0
+                  "UID": 10
                 },
                 {
-                  "UID": 0
+                  "UID": 12
                 },
                 {
-                  "UID": 0
+                  "UID": 13
                 },
                 {
-                  "UID": 0
+                  "UID": 14
                 },
                 {
-                  "UID": 0
+                  "UID": 15
                 },
                 {
-                  "UID": 0
+                  "UID": 16
                 },
                 {
-                  "UID": 0
+                  "UID": 17
                 },
                 {
-                  "UID": 0
+                  "UID": 18
                 },
                 {
-                  "UID": 0
+                  "UID": 19
                 },
                 {
-                  "UID": 0
+                  "UID": 20
                 },
                 {
-                  "UID": 0
+                  "UID": 21
                 },
                 {
-                  "UID": 0
+                  "UID": 22
                 },
                 {
-                  "UID": 0
+                  "UID": 23
                 }
               ],
               "$class": {
-                "UID": 0
+                "UID": 24
               }
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 11
               },
               "NSLocation": 11
             },
@@ -494,73 +494,73 @@
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 11
               },
               "NSLocation": 36
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 11
               },
               "NSLocation": 56.650001525878906
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 11
               },
               "NSLocation": 85
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 11
               },
               "NSLocation": 113.3499984741211
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 11
               },
               "NSLocation": 141.6999969482422
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 11
               },
               "NSLocation": 170.0500030517578
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 11
               },
               "NSLocation": 198.39999389648438
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 11
               },
               "NSLocation": 226.75
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 11
               },
               "NSLocation": 255.10000610351562
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 11
               },
               "NSLocation": 283.45001220703125
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 11
               },
               "NSLocation": 311.79998779296875
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 11
               },
               "NSLocation": 340.1499938964844
             },
@@ -574,25 +574,25 @@
             {
               "NS.objects": [],
               "$class": {
-                "UID": 0
+                "UID": 24
               }
             },
             {
               "NS.objects": [
                 {
-                  "UID": 0
+                  "UID": 27
                 }
               ],
               "$class": {
-                "UID": 0
+                "UID": 24
               }
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 29
               },
               "NSMarkerFormat": {
-                "UID": 0
+                "UID": 28
               }
             },
             "{disc}",
@@ -613,31 +613,31 @@
             },
             {
               "$class": {
-                "UID": 0
+                "UID": 38
               },
               "NSFontDescriptorAttributes": {
-                "UID": 0
+                "UID": 32
               }
             },
             {
               "NS.keys": [
                 {
-                  "UID": 0
+                  "UID": 33
                 },
                 {
-                  "UID": 0
+                  "UID": 34
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 0
+                  "UID": 35
                 },
                 {
-                  "UID": 0
+                  "UID": 36
                 }
               ],
               "$class": {
-                "UID": 0
+                "UID": 37
               }
             },
             "NSFontSizeAttribute",
@@ -667,16 +667,16 @@
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 0
+                "UID": 41
               },
               "$class": {
-                "UID": 0
+                "UID": 43
               }
             },
             {
               "NSID": 1,
               "$class": {
-                "UID": 0
+                "UID": 42
               }
             },
             {
@@ -711,7 +711,7 @@
           "$archiver": "NSKeyedArchiver",
           "$top": {
             "root": {
-              "UID": 0
+              "UID": 1
             }
           }
         }
