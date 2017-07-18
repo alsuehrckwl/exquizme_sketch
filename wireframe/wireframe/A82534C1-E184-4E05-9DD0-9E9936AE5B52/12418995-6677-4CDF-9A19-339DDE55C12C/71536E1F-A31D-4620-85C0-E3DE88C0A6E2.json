@@ -35,58 +35,6 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "NSParagraphStyle": {
-          "_archive": [
-            {
-              "$version": 100000,
-              "$objects": [
-                "$null",
-                {
-                  "NSTabStops": {
-                    "UID": 0
-                  },
-                  "NSWritingDirection": 1,
-                  "$class": {
-                    "UID": 4
-                  },
-                  "NSTextBlocks": {
-                    "UID": 2
-                  },
-                  "NSTextLists": {
-                    "UID": 2
-                  }
-                },
-                {
-                  "NS.objects": [],
-                  "$class": {
-                    "UID": 3
-                  }
-                },
-                {
-                  "$classname": "NSArray",
-                  "$classes": [
-                    "NSArray",
-                    "NSObject"
-                  ]
-                },
-                {
-                  "$classname": "NSMutableParagraphStyle",
-                  "$classes": [
-                    "NSMutableParagraphStyle",
-                    "NSParagraphStyle",
-                    "NSObject"
-                  ]
-                }
-              ],
-              "$archiver": "NSKeyedArchiver",
-              "$top": {
-                "root": {
-                  "UID": 1
-                }
-              }
-            }
-          ]
-        },
         "MSAttributedStringFontAttribute": {
           "_archive": [
             {
@@ -138,6 +86,58 @@
                   "$classname": "NSFontDescriptor",
                   "$classes": [
                     "NSFontDescriptor",
+                    "NSObject"
+                  ]
+                }
+              ],
+              "$archiver": "NSKeyedArchiver",
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              }
+            }
+          ]
+        },
+        "NSParagraphStyle": {
+          "_archive": [
+            {
+              "$version": 100000,
+              "$objects": [
+                "$null",
+                {
+                  "NSTabStops": {
+                    "UID": 0
+                  },
+                  "NSWritingDirection": 1,
+                  "$class": {
+                    "UID": 4
+                  },
+                  "NSTextBlocks": {
+                    "UID": 2
+                  },
+                  "NSTextLists": {
+                    "UID": 2
+                  }
+                },
+                {
+                  "NS.objects": [],
+                  "$class": {
+                    "UID": 3
+                  }
+                },
+                {
+                  "$classname": "NSArray",
+                  "$classes": [
+                    "NSArray",
+                    "NSObject"
+                  ]
+                },
+                {
+                  "$classname": "NSMutableParagraphStyle",
+                  "$classes": [
+                    "NSMutableParagraphStyle",
+                    "NSParagraphStyle",
                     "NSObject"
                   ]
                 }

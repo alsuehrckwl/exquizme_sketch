@@ -33,24 +33,24 @@
         "constraints": {
           "automatic": 1,
           "top": {
-            "multiplier": 0,
-            "enabled": 1,
-            "model_version": 0.1,
-            "constant": 0,
             "modelID": "constraint_aff9a26e-c5d6-4eba-b4cd-fb7a0908a38e",
-            "model_class": "ADModelConstraint"
+            "enabled": 1,
+            "multiplier": 0,
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "constant": 0
           },
           "model_version": 0.1,
+          "modelID": "viewConstraints_4cba05b0-c2a6-4706-b856-219a12d213ee",
           "model_class": "ADModelViewConstraints",
           "left": {
-            "multiplier": 0,
-            "enabled": 1,
-            "model_version": 0.1,
-            "constant": 0,
             "modelID": "constraint_d85821ad-e39e-4304-9718-8d7831807591",
-            "model_class": "ADModelConstraint"
-          },
-          "modelID": "viewConstraints_4cba05b0-c2a6-4706-b856-219a12d213ee"
+            "enabled": 1,
+            "multiplier": 0,
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "constant": 0
+          }
         }
       }
     }
