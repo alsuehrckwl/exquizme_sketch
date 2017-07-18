@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "do_objectID": "ECCEE85E-9EF8-439B-AFBF-6CD258CC3CB1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 112,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "box",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "isEnabled": false,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.9333333333333333,
+          "green": 0.592156862745098,
+          "red": 0.2313725490196079
+        },
+        "fillType": 0,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "3D38B539-84C0-4FAF-AECF-B48D4EFCC28E",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "DED323D7-0796-42D6-9A07-DC743384293D",
+      "class": "text"
+    },
+    {
+      "id": "D93BDA47-1E0C-48A0-B927-39254BCF7402",
+      "class": "text"
+    },
+    {
+      "id": "E2208CAA-1937-4CF5-AEBD-6FFB1F71888E",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "7F4F8B27-16DB-4A8D-B921-98109B0F8981",
+      "class": "shapeGroup"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "0269E9D5-17E3-4649-99DD-1499BCA47610",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 302,
+    "width": 375,
+    "x": -470,
+    "y": 374.1383570836047
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "keyboard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "0ABBDE4C-15C2-4FA2-9EB1-363BC91E8987",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "F70739C9-14BC-4D66-BE5E-A460CF3E6E3E",
+      "class": "group"
+    },
+    {
+      "id": "60D16AC5-C4BF-4C49-BC54-E763D62F7D78",
+      "class": "group"
+    },
+    {
+      "id": "D51C74DF-D51A-4B79-BC2D-4AB2072A4B20",
+      "class": "group"
+    },
+    {
+      "id": "F585FC6E-9A85-4B83-82EC-EF8F22D6E97C",
+      "class": "group"
+    }
+  ]
+}

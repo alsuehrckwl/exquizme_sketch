@@ -1,0 +1,47 @@
+{
+  "_class": "group",
+  "do_objectID": "413ED275-4F53-490C-BDFB-329348F1C107",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 9,
+    "width": 241,
+    "x": 582.6359564259058,
+    "y": 2308.813867388497
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "flowchart / line / dotted end and arrow",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 45,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "84A343FB-CB31-4C21-BC10-3D44658A202D",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "A6401B4F-AC6F-49FB-B24C-82772C4B10BA",
+      "class": "shapeGroup"
+    }
+  ]
+}

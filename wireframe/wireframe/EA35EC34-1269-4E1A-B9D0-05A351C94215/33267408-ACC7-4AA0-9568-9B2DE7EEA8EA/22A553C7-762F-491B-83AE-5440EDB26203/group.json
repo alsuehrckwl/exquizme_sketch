@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "do_objectID": "22A553C7-762F-491B-83AE-5440EDB26203",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 112,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "box",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "isEnabled": false,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.9333333333333333,
+          "green": 0.592156862745098,
+          "red": 0.2313725490196079
+        },
+        "fillType": 0,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "BF22D452-D6EF-430C-865F-A2F1CD52F95B",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "FF4D2E1E-C839-4AD9-B426-D7F1480A7469",
+      "class": "text"
+    },
+    {
+      "id": "1A419DC9-1499-476F-B4FE-7E3304CD5112",
+      "class": "text"
+    },
+    {
+      "id": "EE1DAA78-91F4-47E4-889E-BFF72849A9B4",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "773221D3-433E-40E9-9D4E-C4836B68D32C",
+      "class": "shapeGroup"
+    }
+  ]
+}

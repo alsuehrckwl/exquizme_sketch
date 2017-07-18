@@ -3,7 +3,17 @@
   "do_objectID": "EA35EC34-1269-4E1A-B9D0-05A351C94215",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
     "includedLayerIds": [],
     "layerOptions": 0,
     "shouldTrim": false
@@ -14,14 +24,14 @@
     "height": 667,
     "width": 375,
     "x": 940,
-    "y": 331
+    "y": 326
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "name": "login",
+  "layerListExpandedType": 0,
+  "name": "메인화면",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -36,32 +46,28 @@
   "hasClickThrough": true,
   "layers": [
     {
-      "id": "9BE412B6-3B59-4AA2-B6C1-FFD5E3BF8E04",
+      "id": "95B1EB1A-BCBE-4CCF-9400-9E61CA42EFDE",
       "class": "group"
     },
     {
-      "id": "F53BFEF2-4584-498B-82C6-CC59BBDD3D76",
-      "class": "text"
-    },
-    {
-      "id": "8454641D-961A-4498-9421-F3AA7B330F82",
+      "id": "0CD44F87-2840-4E6C-9168-5E20E76E567A",
       "class": "group"
     },
     {
-      "id": "9905B316-72FD-4616-A350-CF26E5B74BC4",
+      "id": "33267408-ACC7-4AA0-9568-9B2DE7EEA8EA",
       "class": "group"
     },
     {
-      "id": "3CA9535A-E530-467A-A734-65D92125D640",
+      "id": "7C60EBD0-098D-4D1D-BC9E-10325A27DB4D",
       "class": "group"
     },
     {
-      "id": "ECE32F5A-B78A-4C91-9F9D-E1F5307A267D",
-      "class": "group"
+      "id": "F5FA46CC-4A5F-4E25-923E-A6F85AAF504F",
+      "class": "symbolInstance"
     },
     {
-      "id": "12215B60-A558-43C4-B77F-41B9D9968E63",
-      "class": "text"
+      "id": "AA12D7D7-57E0-4D12-A72D-542D8D1E8949",
+      "class": "symbolInstance"
     }
   ],
   "backgroundColor": {
@@ -81,21 +87,29 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "guides": [
-      8,
-      367,
-      30.57999992370605
-    ]
+    "guides": []
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "layout": {
+    "_class": "layoutGrid",
+    "isEnabled": false,
+    "columnWidth": 31,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 376
+  },
   "resizesContent": false,
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "guides": [
-      8,
-      659
-    ]
+    "guides": []
   }
 }

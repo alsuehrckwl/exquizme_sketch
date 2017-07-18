@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "do_objectID": "A88260EF-D37D-4A1A-829E-D6CB90EF232C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 375,
+    "x": 6,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "model_class": "ADModelViewConstraints",
+          "scaleFactor": 1,
+          "model_version": 0.1,
+          "left": {
+            "model_version": 0.1,
+            "enabled": 1,
+            "multiplier": 0,
+            "modelID": "constraint_8b4dab16-e484-4419-828b-f69800b02486",
+            "model_class": "ADModelConstraint",
+            "constant": 6
+          },
+          "modelID": "viewConstraints_7ffde022-fe07-42c0-a0c1-660aa7b7b284",
+          "right": {
+            "model_version": 0.1,
+            "enabled": 1,
+            "multiplier": 0,
+            "modelID": "constraint_b9a76618-9eb2-4e17-8384-8b7ce270aa9b",
+            "model_class": "ADModelConstraint",
+            "constant": 5
+          }
+        }
+      }
+    }
+  },
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "AD730C5C-6248-40E7-9E6C-735C97565790",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "D1AD6096-93DC-43C9-B07E-5A78644EBD46",
+      "class": "group"
+    },
+    {
+      "id": "5A54621B-FA75-4783-929C-B824D0CCD5AD",
+      "class": "text"
+    },
+    {
+      "id": "F882CBE2-0DDB-466B-A313-1D6A09257578",
+      "class": "group"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "118FAB35-E443-4642-A1F4-1C8586443636",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 476,
+    "width": 314,
+    "x": 31,
+    "y": 98
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "팝업",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "B3F62F17-7546-4AE3-A193-3FF03738AA26",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "BD7E5E80-EA80-4BAC-B90B-6DE95B62B142",
+      "class": "text"
+    },
+    {
+      "id": "500ACE45-F096-4FF3-A552-74AF969E90CC",
+      "class": "text"
+    },
+    {
+      "id": "77D16EC7-E2B3-4D36-A47D-465525F45F82",
+      "class": "shapeGroup"
+    }
+  ]
+}

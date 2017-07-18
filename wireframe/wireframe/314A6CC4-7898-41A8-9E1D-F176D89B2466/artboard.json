@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "do_objectID": "314A6CC4-7898-41A8-9E1D-F176D89B2466",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 2365,
+    "y": 1108
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "문제풀이 최종결과",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": true,
+  "layers": [
+    {
+      "id": "7F26A557-172E-4DA3-B012-FCFC53B8EFE7",
+      "class": "symbolInstance"
+    },
+    {
+      "id": "D6CD767B-1AB6-4DF9-B1A9-4333859540CE",
+      "class": "symbolInstance"
+    },
+    {
+      "id": "E00F748F-507F-4367-A0FA-FC85D5AA612C",
+      "class": "group"
+    },
+    {
+      "id": "9F3A6042-9845-4DE5-ADBA-010E5EB4019B",
+      "class": "text"
+    },
+    {
+      "id": "2080C30B-EF4E-4DC0-A849-170FB8365C5B",
+      "class": "group"
+    },
+    {
+      "id": "5697BF09-41B4-45C9-9EC4-C1FF327A6CCB",
+      "class": "group"
+    }
+  ],
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "isEnabled": false,
+    "gridSize": 8,
+    "thickGridTimes": 12
+  },
+  "hasBackgroundColor": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "layout": {
+    "_class": "layoutGrid",
+    "isEnabled": true,
+    "columnWidth": 31,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 376
+  },
+  "resizesContent": false,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  }
+}

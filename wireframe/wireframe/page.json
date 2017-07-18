@@ -36,6 +36,50 @@
   "hasClickThrough": true,
   "layers": [
     {
+      "id": "98193760-4DB1-4EF5-B44D-7FB34C558098",
+      "class": "artboard"
+    },
+    {
+      "id": "314A6CC4-7898-41A8-9E1D-F176D89B2466",
+      "class": "artboard"
+    },
+    {
+      "id": "4A13A033-6DE6-4E23-949D-E7ECFDE967BE",
+      "class": "artboard"
+    },
+    {
+      "id": "36EF4AA8-4561-45F9-B386-3B4638CB1DC0",
+      "class": "artboard"
+    },
+    {
+      "id": "C93CEC7E-D867-471D-9972-DCBD06E2571A",
+      "class": "artboard"
+    },
+    {
+      "id": "B20A65FF-8F6C-41D3-8169-13048509BA1F",
+      "class": "artboard"
+    },
+    {
+      "id": "922183D3-7DB3-415C-83B2-9014269F5F73",
+      "class": "artboard"
+    },
+    {
+      "id": "A82534C1-E184-4E05-9DD0-9E9936AE5B52",
+      "class": "artboard"
+    },
+    {
+      "id": "1B3E39C4-BF9C-4127-85DE-E0424C1C2A29",
+      "class": "artboard"
+    },
+    {
+      "id": "6335B44B-A97E-4286-A227-4B1C2BF998B0",
+      "class": "artboard"
+    },
+    {
+      "id": "B9609745-A2CF-4FB9-A0B7-03E970FD29D8",
+      "class": "artboard"
+    },
+    {
       "id": "EA35EC34-1269-4E1A-B9D0-05A351C94215",
       "class": "artboard"
     }
