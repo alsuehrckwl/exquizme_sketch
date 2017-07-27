@@ -34,20 +34,20 @@
         "isAutoWidth": 1,
         "constraints": {
           "centerHorizontally": {
-            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
             "enabled": 1,
             "multiplier": 0,
-            "constant": 0.5,
-            "model_version": 0.1,
-            "modelID": "constraint_1fece63c-af83-4ec4-b7b9-afe845a27123"
+            "modelID": "constraint_1fece63c-af83-4ec4-b7b9-afe845a27123",
+            "model_class": "ADModelConstraint",
+            "constant": 0.5
           },
           "top": {
-            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
             "enabled": 1,
             "multiplier": 0,
-            "constant": 0,
-            "model_version": 0.1,
-            "modelID": "constraint_70c49377-fe83-4625-8663-bbdce4c7ca9d"
+            "modelID": "constraint_70c49377-fe83-4625-8663-bbdce4c7ca9d",
+            "model_class": "ADModelConstraint",
+            "constant": 0
           },
           "model_version": 0.1,
           "modelID": "viewConstraints_2cf76c12-ca22-4f18-9b7f-2c1fbd2d6fbf",

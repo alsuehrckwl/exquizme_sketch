@@ -11,7 +11,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 48,
     "width": 375,
     "x": 107,
     "y": -102
@@ -97,5 +97,5 @@
   },
   "includeBackgroundColorInInstance": false,
   "symbolID": "F95B5E07-C86A-4394-9C19-ABFF3A7C98C3",
-  "changeIdentifier": 1317
+  "changeIdentifier": 1334
 }

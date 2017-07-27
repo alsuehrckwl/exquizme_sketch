@@ -12,7 +12,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 360,
+    "width": 359,
     "x": 8,
     "y": 620
   },
@@ -20,7 +20,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "primary btn 40pt 16 col",
   "nameIsFixed": false,
   "resizingConstraint": 63,

@@ -43,7 +43,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "layers": [
     {
       "id": "1D67D5EF-53A2-4FD4-BC11-1C5D071806B1",

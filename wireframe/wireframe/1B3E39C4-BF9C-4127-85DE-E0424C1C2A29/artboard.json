@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "name": "팝업-개별퀴즈 추가하기",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -59,6 +59,10 @@
     },
     {
       "id": "1B9F1527-8BDE-4C58-A4C8-ADAB963045D0",
+      "class": "symbolInstance"
+    },
+    {
+      "id": "D74323B8-16DC-4721-A925-DAB146296D11",
       "class": "symbolInstance"
     },
     {

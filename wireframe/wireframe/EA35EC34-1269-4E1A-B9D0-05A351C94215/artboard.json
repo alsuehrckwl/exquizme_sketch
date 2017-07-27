@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "메인화면",
   "nameIsFixed": true,
   "resizingConstraint": 63,
@@ -62,11 +62,11 @@
       "class": "group"
     },
     {
-      "id": "F5FA46CC-4A5F-4E25-923E-A6F85AAF504F",
+      "id": "AA12D7D7-57E0-4D12-A72D-542D8D1E8949",
       "class": "symbolInstance"
     },
     {
-      "id": "AA12D7D7-57E0-4D12-A72D-542D8D1E8949",
+      "id": "2572FFD3-5FB5-4247-8AFE-5E40B2D2648E",
       "class": "symbolInstance"
     }
   ],

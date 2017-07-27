@@ -12,15 +12,15 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 360,
+    "width": 359,
     "x": 8,
-    "y": 118
+    "y": 120
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "name": "box 16col",
   "nameIsFixed": false,
   "resizingConstraint": 63,
@@ -38,6 +38,18 @@
     {
       "id": "01C268DB-6A5B-42A6-9880-B28EFD8C3FF7",
       "class": "group"
+    },
+    {
+      "id": "271EDE28-0783-40B1-BCD3-F730926725F2",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "0C436187-0DD7-43CC-919F-798945B8DC17",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "FF9A0C44-7495-40E3-B26B-9EFDD4625F0A",
+      "class": "shapeGroup"
     }
   ]
 }

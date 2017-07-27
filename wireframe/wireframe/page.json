@@ -36,6 +36,14 @@
   "hasClickThrough": true,
   "layers": [
     {
+      "id": "5F1B0EB8-1B24-43C7-909E-A2FF9EEBE6A8",
+      "class": "artboard"
+    },
+    {
+      "id": "E30E104D-D837-4B67-92BC-9921E2D88AF7",
+      "class": "artboard"
+    },
+    {
       "id": "98193760-4DB1-4EF5-B44D-7FB34C558098",
       "class": "artboard"
     },

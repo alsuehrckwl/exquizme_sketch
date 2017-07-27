@@ -35,22 +35,22 @@
           "model_class": "ADModelViewConstraints",
           "scaleFactor": 1,
           "model_version": 0.1,
-          "right": {
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "enabled": 1,
-            "constant": 5,
+          "left": {
             "multiplier": 0,
-            "modelID": "constraint_b9a76618-9eb2-4e17-8384-8b7ce270aa9b"
+            "enabled": 1,
+            "model_version": 0.1,
+            "modelID": "constraint_8b4dab16-e484-4419-828b-f69800b02486",
+            "model_class": "ADModelConstraint",
+            "constant": 6
           },
           "modelID": "viewConstraints_7ffde022-fe07-42c0-a0c1-660aa7b7b284",
-          "left": {
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "enabled": 1,
-            "constant": 6,
+          "right": {
             "multiplier": 0,
-            "modelID": "constraint_8b4dab16-e484-4419-828b-f69800b02486"
+            "enabled": 1,
+            "model_version": 0.1,
+            "modelID": "constraint_b9a76618-9eb2-4e17-8384-8b7ce270aa9b",
+            "model_class": "ADModelConstraint",
+            "constant": 5
           }
         }
       }

@@ -34,7 +34,7 @@
     "startDecorationType": 0
   },
   "horizontalSpacing": 0,
-  "masterInfluenceEdgeMaxXPadding": 2,
+  "masterInfluenceEdgeMaxXPadding": 1,
   "masterInfluenceEdgeMaxYPadding": 10,
   "masterInfluenceEdgeMinXPadding": 10,
   "masterInfluenceEdgeMinYPadding": 4,

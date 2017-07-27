@@ -33,7 +33,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "layers": [
     {
       "id": "CE96A7F6-E484-403B-AF2A-23BED5946901",
@@ -63,5 +63,5 @@
   },
   "includeBackgroundColorInInstance": false,
   "symbolID": "00AD06D1-8822-41A2-8D6B-594C2F092764",
-  "changeIdentifier": 242
+  "changeIdentifier": 243
 }

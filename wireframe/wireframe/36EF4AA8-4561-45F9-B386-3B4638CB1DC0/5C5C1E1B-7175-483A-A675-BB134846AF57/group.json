@@ -14,13 +14,13 @@
     "height": 48,
     "width": 176,
     "x": 8,
-    "y": 311
+    "y": 319
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "name": "box 16col",
   "nameIsFixed": false,
   "resizingConstraint": 63,

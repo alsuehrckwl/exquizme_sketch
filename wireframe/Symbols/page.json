@@ -250,6 +250,42 @@
     {
       "id": "A9A99294-2337-40CA-821B-F5AA6857B97C",
       "class": "symbolMaster"
+    },
+    {
+      "id": "44F36047-29C8-432B-B9F1-7CF936C89DCB",
+      "class": "text"
+    },
+    {
+      "id": "64995836-633E-47CF-B9FF-4B4516975077",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "530D7944-E06E-45E0-8B04-336D840F3F73",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "20E217B1-5D51-409C-9EA9-28528AB18C8B",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "DE9D7DEB-C7F2-47A8-BBFE-FB6670DA1838",
+      "class": "text"
+    },
+    {
+      "id": "8430455A-EC7E-435D-9D65-5205975135DB",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "814B9D11-3747-48AB-B687-84D843763050",
+      "class": "text"
+    },
+    {
+      "id": "0E5402E6-17FC-43A1-8083-A1BA49C0861A",
+      "class": "text"
+    },
+    {
+      "id": "16DE5266-3415-4DD9-A626-2139BC8D3955",
+      "class": "text"
     }
   ],
   "horizontalRulerData": {
