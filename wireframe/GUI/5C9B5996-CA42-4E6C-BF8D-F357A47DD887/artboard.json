@@ -1,0 +1,123 @@
+{
+  "_class": "artboard",
+  "do_objectID": "5C9B5996-CA42-4E6C-BF8D-F357A47DD887",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 2861,
+    "y": 1010
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "마이페이지 -> 랭킹",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": true,
+  "layers": [
+    {
+      "id": "C0FE7D14-90A1-4A89-A54F-45D3B0B80B99",
+      "class": "symbolInstance"
+    },
+    {
+      "id": "F651E9CB-A4DD-44F7-8076-FA4386E92C42",
+      "class": "symbolInstance"
+    },
+    {
+      "id": "922BD6B0-FC68-4EE0-8CAE-A9C0597628B6",
+      "class": "group"
+    },
+    {
+      "id": "3F95A723-86F7-41D5-B1B2-FA6E8BEF7F93",
+      "class": "group"
+    },
+    {
+      "id": "769F4331-68B1-4A9A-B0EE-3638D87A35A8",
+      "class": "text"
+    },
+    {
+      "id": "01A6ED5A-6245-47DA-9589-EB06EEDCB84D",
+      "class": "symbolInstance"
+    },
+    {
+      "id": "B6A206BB-833C-4B4D-9D83-43799177DBFD",
+      "class": "symbolInstance"
+    },
+    {
+      "id": "84E2A672-C253-44C8-94E3-EE1601EB0974",
+      "class": "group"
+    }
+  ],
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "isEnabled": false,
+    "gridSize": 8,
+    "thickGridTimes": 12
+  },
+  "hasBackgroundColor": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "layout": {
+    "_class": "layoutGrid",
+    "isEnabled": true,
+    "columnWidth": 31,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 16,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 376
+  },
+  "resizesContent": false,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  }
+}

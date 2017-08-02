@@ -13,7 +13,7 @@
     "constrainProportions": false,
     "height": 10,
     "width": 93,
-    "x": 0,
+    "x": 6,
     "y": 2
   },
   "isFlippedHorizontal": false,
@@ -33,24 +33,24 @@
         "constraints": {
           "automatic": 1,
           "top": {
-            "model_version": 0.1,
-            "enabled": 1,
-            "multiplier": 0,
-            "constant": 0,
             "modelID": "constraint_aff9a26e-c5d6-4eba-b4cd-fb7a0908a38e",
-            "model_class": "ADModelConstraint"
+            "enabled": 1,
+            "model_version": 0.1,
+            "model_class": "ADModelConstraint",
+            "multiplier": 0,
+            "constant": 0
           },
           "model_version": 0.1,
+          "model_class": "ADModelViewConstraints",
           "modelID": "viewConstraints_4cba05b0-c2a6-4706-b856-219a12d213ee",
           "left": {
-            "model_version": 0.1,
-            "enabled": 1,
-            "multiplier": 0,
-            "constant": 0,
             "modelID": "constraint_d85821ad-e39e-4304-9718-8d7831807591",
-            "model_class": "ADModelConstraint"
-          },
-          "model_class": "ADModelViewConstraints"
+            "enabled": 1,
+            "model_version": 0.1,
+            "model_class": "ADModelConstraint",
+            "multiplier": 0,
+            "constant": 0
+          }
         }
       }
     }

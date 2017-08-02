@@ -21,8 +21,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "팝업",
-  "nameIsFixed": false,
+  "name": "wire / 팝업",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -71,5 +71,5 @@
   },
   "includeBackgroundColorInInstance": false,
   "symbolID": "1A155DF3-9372-4E84-93B3-EAF230C3C492",
-  "changeIdentifier": 188
+  "changeIdentifier": 204
 }

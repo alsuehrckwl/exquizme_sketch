@@ -21,8 +21,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
-  "name": "status bar",
-  "nameIsFixed": false,
+  "name": "wire / status bar",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -81,5 +81,5 @@
   },
   "includeBackgroundColorInInstance": false,
   "symbolID": "ED6B067F-FB50-4EF8-AE2C-C46476EDFC66",
-  "changeIdentifier": 494
+  "changeIdentifier": 496
 }

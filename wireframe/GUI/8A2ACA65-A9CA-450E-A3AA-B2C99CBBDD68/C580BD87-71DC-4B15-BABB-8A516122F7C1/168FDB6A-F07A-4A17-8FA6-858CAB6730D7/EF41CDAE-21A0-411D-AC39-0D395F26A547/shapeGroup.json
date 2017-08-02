@@ -1,0 +1,89 @@
+{
+  "_class": "shapeGroup",
+  "do_objectID": "EF41CDAE-21A0-411D-AC39-0D395F26A547",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19.70941138114776,
+    "width": 11.98545286691417,
+    "x": 103.3745309771345,
+    "y": 169.993673162399
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "voice Icon",
+  "nameIsFixed": true,
+  "originalObjectID": "235F5DF5-E937-4CD2-8C88-8CAB0FBF5955",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3450980392156863,
+          "green": 0.3450980392156863,
+          "red": 0.3450980392156863
+        },
+        "fillType": 0,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "FBAF5597-E92F-446B-BE56-6EC3A66CA0B1",
+      "class": "shapePath"
+    },
+    {
+      "id": "C65D2D68-85A6-48C7-9687-6F81D09B93FC",
+      "class": "shapePath"
+    },
+    {
+      "id": "3151AA8A-168A-45F5-AB68-7217F1E8D508",
+      "class": "rectangle"
+    },
+    {
+      "id": "152E7481-5337-46E6-9DA3-77D6922B24C0",
+      "class": "rectangle"
+    },
+    {
+      "id": "A847F7A3-11CD-491B-87FD-BFA1DCF272C1",
+      "class": "shapePath"
+    },
+    {
+      "id": "02A16F68-9BE9-43BE-9879-04EFD5A3E0C5",
+      "class": "rectangle"
+    },
+    {
+      "id": "CD7A6E2E-0CD8-4F17-B852-496029A16B44",
+      "class": "rectangle"
+    }
+  ],
+  "clippingMaskMode": 0,
+  "hasClippingMask": false,
+  "windingRule": 0
+}

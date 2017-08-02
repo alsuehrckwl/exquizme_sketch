@@ -34,10 +34,10 @@
     "startDecorationType": 0
   },
   "horizontalSpacing": 0,
-  "masterInfluenceEdgeMaxXPadding": 6,
+  "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1,
   "symbolID": "ED6B067F-FB50-4EF8-AE2C-C46476EDFC66",
   "verticalSpacing": 0
 }

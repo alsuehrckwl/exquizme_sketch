@@ -1,0 +1,89 @@
+{
+  "_class": "shapeGroup",
+  "do_objectID": "E0E7B4D6-A620-4AAB-B777-4FC397B753BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19.70941138114776,
+    "width": 11.98545286691417,
+    "x": 103.3745309771345,
+    "y": 169.993673162399
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "voice Icon",
+  "nameIsFixed": true,
+  "originalObjectID": "235F5DF5-E937-4CD2-8C88-8CAB0FBF5955",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3450980392156863,
+          "green": 0.3450980392156863,
+          "red": 0.3450980392156863
+        },
+        "fillType": 0,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "EB53EB64-BECD-4F3A-B245-848B37C7F402",
+      "class": "shapePath"
+    },
+    {
+      "id": "794E31B2-1EF4-44E8-B830-05A30D7CCB6D",
+      "class": "shapePath"
+    },
+    {
+      "id": "FF2DDCE9-E637-4BE2-B812-C0149A290456",
+      "class": "rectangle"
+    },
+    {
+      "id": "C7462488-DB86-4ACC-A3C4-52E7D25D42DC",
+      "class": "rectangle"
+    },
+    {
+      "id": "88406775-BEF1-4CA5-9D5B-27025AC60072",
+      "class": "shapePath"
+    },
+    {
+      "id": "4CDD1E5B-560A-4B09-AC60-DEB1ADE28861",
+      "class": "rectangle"
+    },
+    {
+      "id": "065B0688-45AB-4FB4-8D0C-8E99FBDF5D05",
+      "class": "rectangle"
+    }
+  ],
+  "clippingMaskMode": 0,
+  "hasClippingMask": false,
+  "windingRule": 0
+}

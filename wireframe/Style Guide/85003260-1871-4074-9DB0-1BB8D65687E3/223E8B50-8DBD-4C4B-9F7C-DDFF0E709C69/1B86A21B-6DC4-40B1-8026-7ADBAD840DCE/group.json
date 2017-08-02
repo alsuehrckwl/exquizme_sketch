@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "1B86A21B-6DC4-40B1-8026-7ADBAD840DCE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 1142,
+    "x": 0,
+    "y": 332
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Stroke",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {}
+    }
+  },
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "6BA829FD-8FC2-4C72-8781-A1449B2B3E36",
+      "class": "group"
+    },
+    {
+      "id": "334E1A13-1CB1-4E99-BD9E-B0E1CD70BE87",
+      "class": "symbolInstance"
+    },
+    {
+      "id": "E5D8A82E-C7C6-4972-B3C9-AC22830B31A4",
+      "class": "group"
+    },
+    {
+      "id": "89BDFAC3-8B75-4459-AD7A-B2B468DDDF0C",
+      "class": "group"
+    },
+    {
+      "id": "6C40E970-1719-4C70-8E83-9977E51EB4EC",
+      "class": "group"
+    }
+  ]
+}

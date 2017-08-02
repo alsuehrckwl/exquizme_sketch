@@ -13,7 +13,7 @@
     "constrainProportions": false,
     "height": 15,
     "width": 375,
-    "x": 6,
+    "x": 0,
     "y": 0
   },
   "isFlippedHorizontal": false,
@@ -35,22 +35,22 @@
           "model_class": "ADModelViewConstraints",
           "scaleFactor": 1,
           "model_version": 0.1,
-          "left": {
-            "multiplier": 0,
-            "enabled": 1,
-            "model_version": 0.1,
-            "modelID": "constraint_8b4dab16-e484-4419-828b-f69800b02486",
+          "right": {
             "model_class": "ADModelConstraint",
-            "constant": 6
+            "enabled": 1,
+            "multiplier": 0,
+            "constant": 5,
+            "model_version": 0.1,
+            "modelID": "constraint_b9a76618-9eb2-4e17-8384-8b7ce270aa9b"
           },
           "modelID": "viewConstraints_7ffde022-fe07-42c0-a0c1-660aa7b7b284",
-          "right": {
-            "multiplier": 0,
-            "enabled": 1,
-            "model_version": 0.1,
-            "modelID": "constraint_b9a76618-9eb2-4e17-8384-8b7ce270aa9b",
+          "left": {
             "model_class": "ADModelConstraint",
-            "constant": 5
+            "enabled": 1,
+            "multiplier": 0,
+            "constant": 6,
+            "model_version": 0.1,
+            "modelID": "constraint_8b4dab16-e484-4419-828b-f69800b02486"
           }
         }
       }

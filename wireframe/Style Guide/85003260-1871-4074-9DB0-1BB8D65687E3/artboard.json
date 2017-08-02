@@ -1,0 +1,127 @@
+{
+  "_class": "artboard",
+  "do_objectID": "85003260-1871-4074-9DB0-1BB8D65687E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3351,
+    "width": 1440,
+    "x": -571,
+    "y": -1526
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "Styleguide",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": true,
+  "layers": [
+    {
+      "id": "001530E2-5764-4117-AE22-E43EE1BBF282",
+      "class": "group"
+    },
+    {
+      "id": "8346CD14-2C2E-4A0D-9930-5369FC4E75BD",
+      "class": "group"
+    },
+    {
+      "id": "223E8B50-8DBD-4C4B-9F7C-DDFF0E709C69",
+      "class": "group"
+    },
+    {
+      "id": "438DDCDE-C628-4D23-B612-8F94AD9D733C",
+      "class": "group"
+    },
+    {
+      "id": "D8979B6B-C0C3-4EE3-AFAF-6F54DF6C1B7A",
+      "class": "group"
+    },
+    {
+      "id": "E020587B-4D5B-4086-A228-7B3168091A3A",
+      "class": "group"
+    }
+  ],
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9137254901960784,
+    "green": 0.9137254901960784,
+    "red": 0.9137254901960784
+  },
+  "hasBackgroundColor": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "layout": {
+    "_class": "layoutGrid",
+    "isEnabled": false,
+    "columnWidth": 68.5,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 29,
+    "guttersOutside": true,
+    "horizontalOffset": 135,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1170
+  },
+  "resizesContent": false,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  }
+}

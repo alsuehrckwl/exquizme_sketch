@@ -1,0 +1,101 @@
+{
+  "_class": "shapeGroup",
+  "do_objectID": "8B7197A2-EB22-4E10-A7BD-BC9A9C25E095",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 19.21667609661893,
+    "width": 19.47636090873553,
+    "x": 56.93090111784218,
+    "y": 169.5009378778704
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "emoji_icon",
+  "nameIsFixed": true,
+  "originalObjectID": "0041A252-D3D3-4B50-9270-5EEF81A395D8",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "isEnabled": false,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "B4E631F2-B1A8-4677-B058-6A7CECA89FA0",
+      "class": "shapePath"
+    },
+    {
+      "id": "F54B8FDF-7E57-4B8B-812E-454529BD6CCD",
+      "class": "shapePath"
+    },
+    {
+      "id": "5B8B2C3D-7C32-41EA-969A-CAAD649CC5F6",
+      "class": "oval"
+    },
+    {
+      "id": "31B5C151-1078-4473-BF32-76EE497B2B7C",
+      "class": "oval"
+    },
+    {
+      "id": "752A8750-0FDD-4820-A752-FCC35ABB4B24",
+      "class": "oval"
+    },
+    {
+      "id": "88C8222D-B9A5-4B3F-8C23-4EE1C224B149",
+      "class": "rectangle"
+    }
+  ],
+  "clippingMaskMode": 0,
+  "hasClippingMask": false,
+  "windingRule": 1
+}

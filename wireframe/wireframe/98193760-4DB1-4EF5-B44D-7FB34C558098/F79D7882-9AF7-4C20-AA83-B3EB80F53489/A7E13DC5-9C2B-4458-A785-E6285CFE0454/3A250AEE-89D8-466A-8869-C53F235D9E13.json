@@ -11,10 +11,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 53,
+    "height": 54,
     "width": 31.4618137756497,
     "x": 93.38665358803934,
-    "y": 7.391029267930389
+    "y": 2.391029267930392
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -157,7 +157,7 @@
                 "NSFontSizeAttribute",
                 "NSFontNameAttribute",
                 45,
-                "SFUIText-Regular",
+                "SpoqaHanSans-Regular",
                 {
                   "$classname": "NSMutableDictionary",
                   "$classes": [
@@ -302,7 +302,7 @@
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
             45,
-            "SFUIText-Regular",
+            "SpoqaHanSans-Regular",
             {
               "$classname": "NSMutableDictionary",
               "$classes": [
@@ -345,7 +345,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{2, 12}, {27, 33}}",
+  "glyphBounds": "{{2, 16}, {27, 33}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 0,
   "textBehaviour": 1

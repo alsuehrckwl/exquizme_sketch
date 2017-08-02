@@ -21,7 +21,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "default btn 40pt 8 col",
+  "name": "wire / default btn 40pt 8 col",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -33,7 +33,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "layers": [
     {
       "id": "08DB82E8-9709-4285-AC9D-091FD6F3ADEC",
@@ -63,5 +63,5 @@
   },
   "includeBackgroundColorInInstance": false,
   "symbolID": "9B9A03E9-A48B-47B2-88D3-AA7E3BA1B1E5",
-  "changeIdentifier": 385
+  "changeIdentifier": 386
 }

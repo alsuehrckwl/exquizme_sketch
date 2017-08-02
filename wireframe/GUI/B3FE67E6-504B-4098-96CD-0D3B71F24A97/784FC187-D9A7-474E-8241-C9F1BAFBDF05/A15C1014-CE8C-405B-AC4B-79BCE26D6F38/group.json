@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "do_objectID": "A15C1014-CE8C-405B-AC4B-79BCE26D6F38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4,
+    "width": 21,
+    "x": 321,
+    "y": 23
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "우측메뉴",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "446E74F4-C3FC-4CDA-AE9A-9A00589C7596",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "8E44DD92-1158-4CD9-BAC7-C881074CFF36",
+      "class": "shapeGroup"
+    },
+    {
+      "id": "C68D73F9-6B8B-43C5-A9B1-C25DA2EFC8A9",
+      "class": "shapeGroup"
+    }
+  ]
+}

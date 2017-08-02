@@ -21,7 +21,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
-  "name": "box 8col",
+  "name": "wire / box 8col",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,5 +63,5 @@
   },
   "includeBackgroundColorInInstance": false,
   "symbolID": "58270D7B-B94C-46E1-BF73-AFF2EDECD795",
-  "changeIdentifier": 2136
+  "changeIdentifier": 2137
 }

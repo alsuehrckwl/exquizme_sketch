@@ -21,7 +21,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
-  "name": "box 16col",
+  "name": "wire / box 16col",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,5 +63,5 @@
   },
   "includeBackgroundColorInInstance": false,
   "symbolID": "94B1A216-1AAE-4E41-8F92-3C5FD9683974",
-  "changeIdentifier": 1677
+  "changeIdentifier": 1678
 }

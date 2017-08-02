@@ -11,10 +11,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 79,
-    "x": 8,
-    "y": 11
+    "height": 19,
+    "width": 78,
+    "x": 8.5,
+    "y": 13
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -35,70 +35,6 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
-        "MSAttributedStringFontAttribute": {
-          "_archive": [
-            {
-              "$version": 100000,
-              "$objects": [
-                "$null",
-                {
-                  "$class": {
-                    "UID": 8
-                  },
-                  "NSFontDescriptorAttributes": {
-                    "UID": 2
-                  }
-                },
-                {
-                  "NS.keys": [
-                    {
-                      "UID": 3
-                    },
-                    {
-                      "UID": 4
-                    }
-                  ],
-                  "NS.objects": [
-                    {
-                      "UID": 5
-                    },
-                    {
-                      "UID": 6
-                    }
-                  ],
-                  "$class": {
-                    "UID": 7
-                  }
-                },
-                "NSFontSizeAttribute",
-                "NSFontNameAttribute",
-                16,
-                "NotoSansCJKkr-Bold",
-                {
-                  "$classname": "NSMutableDictionary",
-                  "$classes": [
-                    "NSMutableDictionary",
-                    "NSDictionary",
-                    "NSObject"
-                  ]
-                },
-                {
-                  "$classname": "NSFontDescriptor",
-                  "$classes": [
-                    "NSFontDescriptor",
-                    "NSObject"
-                  ]
-                }
-              ],
-              "$archiver": "NSKeyedArchiver",
-              "$top": {
-                "root": {
-                  "UID": 1
-                }
-              }
-            }
-          ]
-        },
         "NSParagraphStyle": {
           "_archive": [
             {
@@ -151,6 +87,71 @@
             }
           ]
         },
+        "MSAttributedStringFontAttribute": {
+          "_archive": [
+            {
+              "$version": 100000,
+              "$objects": [
+                "$null",
+                {
+                  "$class": {
+                    "UID": 8
+                  },
+                  "NSFontDescriptorAttributes": {
+                    "UID": 2
+                  }
+                },
+                {
+                  "NS.keys": [
+                    {
+                      "UID": 3
+                    },
+                    {
+                      "UID": 4
+                    }
+                  ],
+                  "NS.objects": [
+                    {
+                      "UID": 5
+                    },
+                    {
+                      "UID": 6
+                    }
+                  ],
+                  "$class": {
+                    "UID": 7
+                  }
+                },
+                "NSFontSizeAttribute",
+                "NSFontNameAttribute",
+                16,
+                "SpoqaHanSans-Regular",
+                {
+                  "$classname": "NSMutableDictionary",
+                  "$classes": [
+                    "NSMutableDictionary",
+                    "NSDictionary",
+                    "NSObject"
+                  ]
+                },
+                {
+                  "$classname": "NSFontDescriptor",
+                  "$classes": [
+                    "NSFontDescriptor",
+                    "NSObject"
+                  ]
+                }
+              ],
+              "$archiver": "NSKeyedArchiver",
+              "$top": {
+                "root": {
+                  "UID": 1
+                }
+              }
+            }
+          ]
+        },
+        "NSKern": 0,
         "NSColor": {
           "_archive": [
             {
@@ -199,8 +200,7 @@
               }
             }
           ]
-        },
-        "NSKern": 0
+        }
       }
     }
   },
@@ -250,7 +250,7 @@
                   "UID": 20
                 },
                 {
-                  "UID": 24
+                  "UID": 21
                 }
               ],
               "$class": {
@@ -259,8 +259,8 @@
             },
             "NSParagraphStyle",
             "MSAttributedStringFontAttribute",
-            "NSColor",
             "NSKern",
+            "NSColor",
             {
               "NSTabStops": {
                 "UID": 0
@@ -329,7 +329,7 @@
             "NSFontSizeAttribute",
             "NSFontNameAttribute",
             16,
-            "NotoSansCJKkr-Bold",
+            "SpoqaHanSans-Regular",
             {
               "$classname": "NSMutableDictionary",
               "$classes": [
@@ -345,6 +345,7 @@
                 "NSObject"
               ]
             },
+            0,
             {
               "NSRGB": {
                 "type": "Buffer",
@@ -352,16 +353,16 @@
               },
               "NSColorSpace": 1,
               "NSCustomColorSpace": {
-                "UID": 21
+                "UID": 22
               },
               "$class": {
-                "UID": 23
+                "UID": 24
               }
             },
             {
               "NSID": 1,
               "$class": {
-                "UID": 22
+                "UID": 23
               }
             },
             {
@@ -378,7 +379,6 @@
                 "NSObject"
               ]
             },
-            0,
             {
               "$classname": "NSDictionary",
               "$classes": [
@@ -406,7 +406,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{1, 5}, {76, 16}}",
+  "glyphBounds": "{{0, 3}, {77, 16}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 2,
   "textBehaviour": 0
