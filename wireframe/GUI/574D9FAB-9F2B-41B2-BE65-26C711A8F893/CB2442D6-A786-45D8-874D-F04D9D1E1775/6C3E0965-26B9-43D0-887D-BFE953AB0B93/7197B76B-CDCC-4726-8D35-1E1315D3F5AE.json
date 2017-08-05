@@ -21,7 +21,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "퀴즈인고양",
+  "name": "야구",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -248,7 +248,7 @@
                 "UID": 3
               }
             },
-            "퀴즈인고양",
+            "야구",
             {
               "NS.keys": [
                 {
@@ -456,7 +456,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{38, 5}, {82, 17}}",
+  "glyphBounds": "{{63, 5}, {32, 17}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 2,
   "textBehaviour": 1

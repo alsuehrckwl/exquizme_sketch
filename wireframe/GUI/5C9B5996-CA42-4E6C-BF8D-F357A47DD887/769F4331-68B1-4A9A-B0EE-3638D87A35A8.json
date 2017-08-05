@@ -11,7 +11,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 110,
+    "height": 44,
     "width": 200,
     "x": 86,
     "y": 485.8974095661499
@@ -381,7 +381,7 @@
                 "UID": 3
               }
             },
-            "내가 만든 문제,\n로그아웃..\n내가 풀었던 문제들(로그인 한 상태에서 풀었던 문제들만)",
+            "내가 만든 문제,\n로그아웃..",
             {
               "NS.keys": [
                 {
@@ -722,7 +722,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{3, 5}, {194, 106}}",
+  "glyphBounds": "{{46, 5}, {109, 39}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 2,
   "textBehaviour": 1

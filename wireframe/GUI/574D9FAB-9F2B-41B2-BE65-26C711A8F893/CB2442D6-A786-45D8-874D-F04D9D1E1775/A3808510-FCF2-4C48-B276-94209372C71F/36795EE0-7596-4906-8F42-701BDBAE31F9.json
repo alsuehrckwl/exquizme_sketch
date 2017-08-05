@@ -21,7 +21,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "티키타카",
+  "name": "농구",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -248,7 +248,7 @@
                 "UID": 3
               }
             },
-            "티키타카",
+            "농구",
             {
               "NS.keys": [
                 {
@@ -456,7 +456,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{47, 5}, {65, 17}}",
+  "glyphBounds": "{{62, 5}, {33, 17}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 2,
   "textBehaviour": 1

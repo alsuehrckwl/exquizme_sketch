@@ -64,6 +64,18 @@
     {
       "id": "374794A7-6E8F-4139-950B-EBC9DBE36977",
       "class": "text"
+    },
+    {
+      "id": "7DE0FECB-05D6-4DB1-B348-C32B91F434BC",
+      "class": "group"
+    },
+    {
+      "id": "5D13B243-E447-4EBF-98BF-3C1421CE5B92",
+      "class": "group"
+    },
+    {
+      "id": "2ACFB03B-88F7-4529-8BE5-BC8022EA82FB",
+      "class": "text"
     }
   ],
   "backgroundColor": {

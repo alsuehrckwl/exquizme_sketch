@@ -98,6 +98,30 @@
     {
       "id": "01068492-856A-4C13-AC82-4B5A564CE0EC",
       "class": "artboard"
+    },
+    {
+      "id": "B176DB9B-0B52-4672-B263-0C941C2230A5",
+      "class": "symbolInstance"
+    },
+    {
+      "id": "0AFE7E9E-9859-4F00-8BB3-6A3CAEC70A6C",
+      "class": "symbolInstance"
+    },
+    {
+      "id": "7FA280B2-F7F5-4730-A0DF-82C8897BCAF3",
+      "class": "group"
+    },
+    {
+      "id": "F7BFD1F5-4171-45DA-872A-B16F17B09032",
+      "class": "group"
+    },
+    {
+      "id": "C9D68DA1-6973-48DA-8CDD-7F0F0BF9B46A",
+      "class": "group"
+    },
+    {
+      "id": "9720E8F9-E911-44C3-9EAB-BB6DB6B14BA3",
+      "class": "shapeGroup"
     }
   ],
   "horizontalRulerData": {
